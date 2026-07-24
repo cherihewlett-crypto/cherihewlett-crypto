@@ -6,7 +6,7 @@
 problems that return quantifiable value and deliver real impact. Not the newest thing. The thing
 that pays.**
 
-### → **[See the work, with the receipts →](https://cheri-hewlett-showcase-cherihewlett-cryptos-projects.vercel.app)**
+### → **[See the work, with the receipts →](https://cherihewlett.dev)**
 
 ---
 
@@ -60,7 +60,7 @@ Product Advisory Collective. Podcast guest — *Sounds Accurate*. Writing on Lin
 
 ## Elsewhere
 
-**[The full showcase →](https://cheri-hewlett-showcase-cherihewlett-cryptos-projects.vercel.app)** · [LinkedIn](https://linkedin.com/in/cheri-hewlett)
+**[The full showcase →](https://cherihewlett.dev)** · [LinkedIn](https://linkedin.com/in/cheri-hewlett)
 
 ---
 
