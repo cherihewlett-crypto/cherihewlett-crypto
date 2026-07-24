@@ -1,98 +1,68 @@
-# Cheri Hewlett, CPA
+# Cheri Hewlett
 
-**Technology executive · Builder · Veteran · People first, always**
+### Technology &amp; innovation executive · Builder · CPA · Veteran
 
-> As AI takes on more of the *what* and the *how*, leadership becomes even more
-> about the *why* and the *who*. The leaders who thrive in this next decade won't
-> simply be fluent in technology. They'll be deeply human.
+**I draw the bridge from problem to solution through technology — the right solution for the
+problems that return quantifiable value and deliver real impact. Not the newest thing. The thing
+that pays.**
 
-The organizations that win won't be the ones that adopted AI fastest. They'll be the
-ones that **chose the right problems**, built systems their people could trust, and had
-leaders resilient enough to stay the course when it got hard.
-
-### → **[See the work, with the receipts](https://cheri-hewlett-showcase-cherihewlett-cryptos-projects.vercel.app)**
+### → **[See the work, with the receipts →](https://cheri-hewlett-showcase-cherihewlett-cryptos-projects.vercel.app)**
 
 ---
 
-## The engineering record
+## The record
 
-Most of what I build is private, because it runs against real financial data. So
-instead of publishing the code, I publish the count — recomputed from the repositories
-themselves every time this file is generated.
+| 6,912 | 1,721 | 302 | 131 | 259 | 4 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| commits **written** | PRs **shipped** | reusable **capabilities** | live **services** | governed **migrations** | **production** systems |
 
-| | Since January 2025 |
-|---|---|
-| Authored commits | **6,912** |
-| Pull requests merged | **1,721** |
-| Edge functions in production | **131** |
-| Database migrations under governance | **259** |
-| CI gates | **11** |
-| Production systems | **4** |
+Every number is recomputed from private production repositories on each build — never typed in.
+Authored commits exclude 11,954 automated sync and merge commits; counting those
+would inflate the figure ~2.3×. The [collector that produces these numbers](https://github.com/cherihewlett-crypto/cheri-hewlett-cv-showcase/blob/main/scripts/collect-proof.mjs) is public
+even though its inputs are not.
 
-Authored commits exclude automated sync and merge commits — there are 11,954
-of those, and counting them would inflate the figure by roughly 2.3×. The
-[collector that produces these numbers](https://github.com/cherihewlett-crypto/cheri-hewlett-cv-showcase/blob/main/scripts/collect-proof.mjs)
-is public even though its inputs are not.
+## Why me — four things at once
+
+Turning a problem into a solution that returns value takes four capabilities most people split
+across a team, and most candidates bring two:
+
+- **Domain** — to see the real problem. Finance, accounting, system migrations, and the operating-model change around them, where a wrong number is a reportable event.
+- **Judgment** — to choose the one problem worth solving. Innovation is picking the right problem, not building the newest thing.
+- **Engineering** — to build the answer. Four production systems, designed and written personally.
+- **Leadership** — to carry it to impact. Every seat of the product lifecycle, and full P&L ownership at public-company scale.
 
 ## What I'm building
 
-**Team Echo** — a multi-agent operating system. Registry-driven routing across eight
-domains, persistent tagged memory, fail-closed tool authority, guardrails ahead of
-classification, and a verifier that recomputes completion state from live evidence
-rather than trusting what was recorded.
-
-**Innovation Hub** — a portfolio cockpit for prototype due diligence, roadmap
-prioritization, and team time allocation. Evidence-based go/kill decisions instead of
-whoever is loudest in the room.
-
-**Consolidation Platform** — a financial consolidation and close engine. The model
-handles mapping and sequencing; the arithmetic is deterministic code with a traceable
-path, because in this domain a confident guess is a reportable event.
-
-**Accounting Doctrine KB** — atomic US GAAP and IFRS rules with SOX-grade citability,
-re-verifiable by an auditor who does not trust the model.
+- **Team Echo** — a multi-agent operating system: registry-driven routing, persistent memory, fail-closed authority, and a verifier that recomputes status from live evidence rather than trusting it.
+- **Innovation Hub** — a portfolio cockpit for prototype due diligence and roadmap prioritization: evidence-based go/kill decisions, not whoever is loudest in the room.
+- **Consolidation Platform** — a financial close-and-consolidation engine: the model plans, deterministic code computes, every number traceable.
+- **Accounting Doctrine KB** — atomic US GAAP and IFRS rules with SOX-grade citability, re-verifiable by an auditor who does not trust the model.
 
 ## Point of view
 
-**Innovation is choosing the right problem.** Most companies are solving the wrong
-problems faster. AI didn't fix that — it accelerated it.
-
-**ROI is the problem solved, not the time saved.** Time doesn't disappear; it gets
-reallocated. The real question is what caliber of quality the team operates at
-afterwards.
-
-**Trust is the real moat.** Everyone is asking "can AI do this?" The better question is
-"can we prove it did it right?"
-
-**How you treat people is the strategy.** Organizations don't outperform because they
-obsess over customers. They outperform because they invest in the people serving them.
+**Innovation is choosing the right problem.** Most companies solve the wrong problems faster.
+**ROI is the problem solved, not the time saved.** **Trust is the real moat** — the question isn't
+"can AI do this," it's "can we prove it did it right." And **how you treat people is the strategy.**
 
 ## Background
 
-U.S. Air Force — mission first, people always. PwC and Deloitte. Founded my own CPA
-firm from scratch. Built a real estate portfolio over a decade of buying, renovating,
-and managing. Rose from customer success manager to senior executive leadership at a
-publicly traded fintech transforming the office of the CFO.
+U.S. Air Force — mission first, people always. PwC and Deloitte. Founded a CPA firm from scratch.
+Built and managed a real estate portfolio over a decade. Rose from customer success to senior
+executive leadership at a publicly traded fintech. I've seen the product lifecycle from every seat —
+implementing, selling, supporting, and betting a company's transformation on the product.
 
-I've seen the product lifecycle from every seat — customer success, solutions
-consulting, product and business transformation, platform strategy. I don't just
-understand the product. I understand what it feels like to implement it, sell it,
-support it, and bet a company's transformation on it.
+CPA · MS Accounting · BS Accounting &amp; Computer Science · U.S. Air Force Veteran · Board Member, G.R.O.W. Foundation
 
-CPA · MS Accounting, Liberty University · BS Accounting & Computer Science, University
-of Maryland · U.S. Air Force Veteran · Board Member, G.R.O.W. Foundation
+## In public
 
-## Speaking and writing
-
-BlackLine Investor Day · SAP Sapphire, Barcelona · BeyondTheBlack · LWT Summit ·
-Product Advisory Collective — *Building with Agentic AI: A Fintech Leader's Show & Tell* ·
-*Sounds Accurate* podcast — AI in Accounting
+Speaker — BlackLine Investor Day · SAP Sapphire, Barcelona · BeyondTheBlack · LWT Summit ·
+Product Advisory Collective. Podcast guest — *Sounds Accurate*. Writing on LinkedIn.
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/cheri-hewlett) · [The full showcase](https://cheri-hewlett-showcase-cherihewlett-cryptos-projects.vercel.app)
+**[The full showcase →](https://cheri-hewlett-showcase-cherihewlett-cryptos-projects.vercel.app)** · [LinkedIn](https://linkedin.com/in/cheri-hewlett)
 
 ---
 
-<sub>This file is generated from the engineering record, not maintained by hand. Last
-recomputed July 23, 2026.</sub>
+<sub>Generated from the engineering record, not maintained by hand. Recomputed
+July 23, 2026.</sub>
