@@ -12,7 +12,7 @@ that pays.**
 
 ## The record
 
-| 6,912 | 1,721 | 302 | 131 | 259 | 4 |
+| 6,916 | 1,725 | 302 | 131 | 261 | 4 |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | commits **written** | PRs **shipped** | reusable **capabilities** | live **services** | governed **migrations** | **production** systems |
 
@@ -35,8 +35,8 @@ across a team, and most candidates bring two:
 
 - **Team Echo** — a multi-agent operating system: registry-driven routing, persistent memory, fail-closed authority, and a verifier that recomputes status from live evidence rather than trusting it.
 - **Innovation Hub** — a portfolio cockpit for prototype due diligence and roadmap prioritization: evidence-based go/kill decisions, not whoever is loudest in the room.
-- **Consolidation Platform** — a financial close-and-consolidation engine: the model plans, deterministic code computes, every number traceable.
-- **Accounting Doctrine KB** — atomic US GAAP and IFRS rules with SOX-grade citability, re-verifiable by an auditor who does not trust the model.
+- **Deterministic rules engine** — a computation engine for regulated, high-stakes numbers: the model plans, deterministic code computes, every figure traceable to source.
+- **Citable rules corpus** — atomic domain rules with source-grade citability, re-verifiable by an expert who does not trust the model.
 
 ## Point of view
 
@@ -66,4 +66,4 @@ Barcelona · LWT Summit · Product Advisory Collective. Podcast guest — *Sound
 ---
 
 <sub>Generated from the engineering record, not maintained by hand. Recomputed
-July 23, 2026.</sub>
+July 24, 2026.</sub>
