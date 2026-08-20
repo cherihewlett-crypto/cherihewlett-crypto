@@ -7,7 +7,7 @@
 ![Role](https://img.shields.io/badge/Role-Technology%20%26%20Innovation%20Exec-17b3c7?style=flat-square) ![CPA](https://img.shields.io/badge/CPA-Certified-0e6d7c?style=flat-square) ![U.S. Air Force](https://img.shields.io/badge/U.S.%20Air%20Force-Veteran-45e0b8?style=flat-square) ![Based](https://img.shields.io/badge/Based-Los%20Angeles-143a4b?style=flat-square)
 
 Turning a problem into a solution that returns value takes four things most teams split across four
-people. Most candidates bring two.
+people.
 
 ```mermaid
 flowchart LR
@@ -22,9 +22,7 @@ flowchart LR
     L --> V
 ```
 
-## Idea to scale — I've operated at every stage
-
-The rare part of a 0-to-1 leader is having actually done every stage, not one or two.
+## Idea to scale
 
 ```mermaid
 flowchart LR
